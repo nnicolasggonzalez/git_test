@@ -1,1 +1,1 @@
-This is Nicolas's first git project!"
+This is Nicolas's first git project!
